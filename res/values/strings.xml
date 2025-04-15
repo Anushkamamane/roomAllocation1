@@ -1,0 +1,12 @@
+
+
+
+    <resources>
+        <string name="app_name">Room</string>
+        <string name="assign_student_label">Assign Student to Room</string>
+        <string name="hint_room_number">Enter Room Number</string>
+        <string name="hint_student_name">Enter Student Name</string>
+        <string name="button_add_student">Add Student</string>
+        <string name="room_details_label">Room Details will appear here</string>
+    </resources>
+
